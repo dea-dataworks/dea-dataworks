@@ -1,4 +1,4 @@
-Hello, I'm Daniel!
+Hello, I'm **Daniel**!
 
 **About Me**
 
