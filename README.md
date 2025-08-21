@@ -26,8 +26,9 @@ Tech Stack:
 Connect With Me:
 
 - LinkedIn: linkedin.com/in/daniel-e-alarcon
+- **LinkedIn:** [linkedin.com/in/daniel-e-alarcon](https://www.linkedin.com/in/daniel-e-alarcon)
 
-- Email: dea.datainsights@gmail.com
+- **Email**: dea.datainsights@gmail.com
 
 🎲 Fun Fact
 
