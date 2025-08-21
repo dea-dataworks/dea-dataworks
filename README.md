@@ -23,12 +23,12 @@ My background is in Experimental Psychology (PhD) and Cognitive Neuroscience (MS
 
 - **Other**: ML, Git/GitHub, VS Code, Data Scraping
 
-Connect With Me:
+**Connect With Me**
 
 - **LinkedIn:** [linkedin.com/in/daniel-e-alarcon](https://www.linkedin.com/in/daniel-e-alarcon)
 
 - **Email**: dea.datainsights@gmail.com
 
-🎲 Fun Fact
+**Fun Fact**
 
 I’ve lived in Chile, England, USA, and Bulgaria thanks to studies, work, and life adventures.
