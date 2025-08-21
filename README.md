@@ -15,17 +15,16 @@ What I’m Working On:
 
 Tech Stack: 
 
-- Languages: Python, SQL
+- **Languages**: Python, SQL
 
-- Libraries: Pandas, Scikit-learn, Matplotlib, Streamlit, LangChain
+- **Libraries**: Pandas, Scikit-learn, Matplotlib, Streamlit, LangChain
 
-- LLM Tools: Ollama, OpenAI API, ChromaDB, FAISS
+- **LLM Tools**: Ollama, OpenAI API, ChromaDB, FAISS
 
-- Other: ML, Git/GitHub, VS Code, Data Scraping
+- **Other**: ML, Git/GitHub, VS Code, Data Scraping
 
 Connect With Me:
 
-- LinkedIn: linkedin.com/in/daniel-e-alarcon
 - **LinkedIn:** [linkedin.com/in/daniel-e-alarcon](https://www.linkedin.com/in/daniel-e-alarcon)
 
 - **Email**: dea.datainsights@gmail.com
